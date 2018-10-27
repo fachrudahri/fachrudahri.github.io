@@ -1,0 +1,140 @@
+body {
+    font-family: 'roboto';
+}
+
+.isi {
+    margin-top: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.bagan-satu {
+    box-shadow: 0px 3px 20px #55636b;
+    width: 100%;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.bagan-satu  img{
+    width: 100%;
+}
+
+.padding-wasiat {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.bagan-satu  .cantik{
+    width: 250px;
+    border-top: 3px solid #009688;
+}
+
+.padding-wasiat p {
+    color: #55636b;
+    line-height: 40px;
+    font-family: 'roboto',sans-serif;
+    font-size: 14px;
+    cursor: default
+}
+
+.padding-wasiat p:hover {
+ background-color: azure;
+}
+
+i {
+    margin-right: 15px;
+    color: #009688;
+}
+
+.progress {
+    border-radius: 10px;
+}
+
+.progress-bar {
+    background-color: #009688;
+    border-radius: 10px;
+}
+
+
+.judul {
+    margin-left: 20px;
+    color: #55636b;
+}
+
+.geser {
+    margin-right: 3px;
+}
+
+.bagan-dua {
+    box-shadow: 0px 3px 20px #55636b;
+    width: 100%;
+    padding-top: 1px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.padding-kerja {
+    margin-top: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.tema {
+    color: #55636b;
+    font-weight: bold;
+}
+
+.tanggal {
+    font-size: 16px;
+}
+
+span {
+    background-color: #009688;
+    color: #fff;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.bagan-tiga {
+    box-shadow: 0px 3px 20px #55636b;
+    width: 100%;
+    padding-top: 1px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.bagan-empat {
+    box-shadow: 0px 3px 20px #55636b;
+    width: 100%;
+    padding-top: 1px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.footer {
+    color: #fff;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    background-color: #22313f;
+}
+
+.icon {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.icon img{
+    margin-right: 15px;
+    margin-left: 15px;
+    width: 30px;
+    height: 30px;
+}
+
+.bolder {
+    font-weight: bold;
+}
+
+.lighter {
+    font-size: small;
+    font-weight: lighter;
+}
